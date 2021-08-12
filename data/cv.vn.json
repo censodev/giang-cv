@@ -1,0 +1,87 @@
+{
+    "fullName": "Nguyễn Hương Giang",
+    "avatar": "",
+    "career": "Software Developer",
+    "birthDate": "03/04/1996",
+    "gender": "Nữ",
+    "phone": "0912800616",
+    "mail": "",
+    "address": "Hà Nội, Việt Nam",
+    "github": "",
+    "skillsTitle": "kỹ năng",
+    "skills": [
+        "PHP",
+        "Laravel",
+        "JS",
+        "VueJS"
+    ],
+    "eduTitle": "học vấn",
+    "edu": [
+        {
+            "school": "Học viện Công nghệ Bưu chính viễn thông",
+            "spec": "Công nghệ thông tin",
+            "time": "2014 - 2019",
+            "degree": "Kỹ sư"
+        }
+    ],
+    "workExpTitle": "kinh nghiệm",
+    "workExp": [
+        {
+            "company": "CÔNG TY CỔ PHẦN PHẦN MỀM MIRAI VIỆT NAM",
+            "career": "Software Developer",
+            "time": "T11 2019 - Hiện tại"
+        }
+    ],
+    "projectsTitle": "Dự án",
+    "projects": [
+        {
+            "name": "pac system",
+            "time": "T6 2020 - Hiện tại",
+            "role": "Full-stack developer",
+            "des": "",
+            "tech": [
+                "Laravel",
+                "VueJS/NuxtJS",
+                "AngularJS",
+                "React Native"
+            ],
+            "team": "34 thành viên"
+        },
+        {
+            "name": "imprint",
+            "time": "T6 2021 - T7 2021",
+            "role": "Full-stack developer",
+            "des": "",
+            "tech": [
+                "Laravel",
+                "VueJS",
+                "AngularJS"
+            ],
+            "team": "5 thành viên"
+        },
+        {
+            "name": "form issuance",
+            "time": "",
+            "role": "Full-stack developer",
+            "des": "",
+            "tech": [
+                "Laravel",
+                "VueJS",
+                "AngularJS"
+            ],
+            "team": "10 thành viên"
+        },
+        {
+            "name": "ebi iot",
+            "time": "OCT 2020 - DEC 2020",
+            "role": "Full-stack developer",
+            "des": "",
+            "tech": [
+                "Laravel",
+                "VueJS",
+                "IoT"
+            ],
+            "team": "7 thành viên"
+        }
+    ]
+}
